@@ -3,7 +3,7 @@
   "info" : {
     "description" : "Arbitron's REST API used for system integration",
     "version" : "2025-06-15T20:35:20Z",
-    "title" : "Abritron.ai REST API"
+    "title" : "Arbitron.ai REST API"
   },
   "host" : "rest-api.arbitron.ai",
   "schemes" : [ "https" ],
